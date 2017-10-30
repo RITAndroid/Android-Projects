@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.shreyas.myapplication.Main3Activity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Why So Serious ?
+
+Why So Serious is a selfie android app. This helps you to click funny images in the app. Now a days there is a great need of a app which would make people around laugh, annoy, angry for just clicking the pictures.
+
+Why So Serious app lands you on the home page as you enter in the application. There you are provided with different options with a beautiful walpaper at the back. This app provides you 'Why so serious?' and 'Why not serious?' options.
+
+    These options lead you to the camera screen to click your beautiful pictures with lots of suprising emosions in it. 'Click Me' button allows you to click the picture.
+
+    'Why So Serious?' makes you click pictures when you are in a serious, angry, annoyed mood and makes you smile and click the picture after a funny image displayed on the screen.
+
+    'Why Not Serious?' makes you click pictures when you are in a happy, laughing mood and makes you give serious expression and click the picture after a image displayed on the screen.
+
+    Thank You..!
+    I hope you enjoy using the application.
+    If any queries or feedback let us know at ssp1996@gmail.com"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="30dp" />
+</android.support.constraint.ConstraintLayout>
